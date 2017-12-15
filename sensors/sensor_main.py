@@ -1,3 +1,8 @@
+"""
+Script de test d'importation des données des 4 capteurs.
+Non utilisé car le code a été copié dans le 'main' 
+"""
+
 import sys
 from datetime import datetime
 
